@@ -16,7 +16,6 @@ version = "0.0.1"
 description = "A crate that adds functions aimed to improve terminal input"
 readme = "README.md"
 license = "MIT"
-license-file = "./LICENSE"
 resolver = "2"
 
 [dependencies]
