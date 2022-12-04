@@ -13,7 +13,7 @@
 edition = "2021"
 name = "better_input"
 version = "0.0.1"
-description = "A crate that adds functions aimed to improve terminal input handeling"
+description = "A crate that adds functions aimed to improve terminal input"
 readme = "README.md"
 resolver = "2"
 

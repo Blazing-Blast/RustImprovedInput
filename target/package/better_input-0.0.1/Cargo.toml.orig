@@ -2,9 +2,9 @@
 name = "better_input"
 version = "0.0.1"
 edition = "2021"
-licence = "MIT Licence"
+licence = "MIT"
 licence-file = "./LICENSE"
-description = "A crate that adds functions aimed to improve terminal input handeling"
+description = "A crate that adds functions aimed to improve terminal input"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
